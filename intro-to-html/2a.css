@@ -1,0 +1,11 @@
+.request-now-button{
+    background-color: black;
+    color: white;
+    width: 107px;
+    height: 40px;
+    cursor: pointer;
+    transition: 0.15s;
+}
+.request-now-button:hover{
+    opacity:0.8;
+}
