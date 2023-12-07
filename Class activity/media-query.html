@@ -2,6 +2,13 @@
 <html>
     <head>
         <style>
+            .body{
+                background-color: red;
+                @media screen and (min-width:200px) and (max-width:900px){
+                    background-color: pink;
+                    
+                }
+            }
             .practice{
                 display: inline-block;
                 border-style: solid;
@@ -11,7 +18,7 @@
             }
         </style>
     </head>
-    <body>
+    <body class="body">
         <div class="practice">
             <p>Satisfied with our service?</p>
             <button>Yes</button>
