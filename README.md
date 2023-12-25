@@ -20,3 +20,7 @@ I followed the html-css-course on the YouTube channel of supersimpledev.
 Here is the link to the channel video:https://youtu.be/G3e-cpL7ofc?si=iw40-eRSM9BCIWHC
 
 And here is a link to the channel homepage: https://www.youtube.com/@SuperSimpleDev
+
+## License
+
+MIT
