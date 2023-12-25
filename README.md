@@ -15,9 +15,13 @@ md
 
 The above image shows the finished product of the project.
 
+md
+    ![alt text](images/homepage_update.png)
+
+When media queries were implemented, it allowed the page to be responsive as evidenced by the image above. Media queries were implemented so the page can be viewed on different screen sizes.
 ## Credits
 
-I followed the html-css-course on the YouTube channel of supersimpledev. 
+I followed the html-css-course on the YouTube channel of SuperSimpleDev. 
 
 Here is the link to the channel video:https://youtu.be/G3e-cpL7ofc?si=iw40-eRSM9BCIWHC
 
