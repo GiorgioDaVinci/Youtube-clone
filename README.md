@@ -23,7 +23,7 @@ When media queries were implemented, it allowed the page to be responsive as evi
 
 I followed the html-css-course on the YouTube channel of SuperSimpleDev. 
 
-Here is the link to the channel video:https://youtu.be/G3e-cpL7ofc?si=iw40-eRSM9BCIWHC
+Here is the link to the channel video: https://youtu.be/G3e-cpL7ofc?si=iw40-eRSM9BCIWHC
 
 And here is a link to the channel homepage: https://www.youtube.com/@SuperSimpleDev
 
